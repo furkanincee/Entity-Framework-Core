@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furka\\Desktop\\Asp.Net 5 Notes\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu.csproj",
+      "projectUniqueName": "C:\\Users\\furka\\Desktop\\Entity-Framework-Core\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu.csproj",
       "projectName": "ORM ve SQL İzolasyonu",
-      "projectPath": "C:\\Users\\furka\\Desktop\\Asp.Net 5 Notes\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu.csproj",
+      "projectPath": "C:\\Users\\furka\\Desktop\\Entity-Framework-Core\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu.csproj",
       "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furka\\Desktop\\Asp.Net 5 Notes\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu\\obj\\",
+      "outputPath": "C:\\Users\\furka\\Desktop\\Entity-Framework-Core\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\furka\\AppData\\Roaming\\NuGet\\NuGet.Config",

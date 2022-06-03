@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vcOeL3cVbWpqootKJJB8YfK5zKAOkzSHazZ8icNUns0zDXeo2ow/XJ0CUgPw5BFGq1IPITmbBwPtULMUXS+S9A==",
+  "dgSpecHash": "HyvvszugzXBzj4EevO40yYKO2/yk7dRJOX6s6h8Ns3FKi2RNx8rsXrll4ZxAFi+C1yjw+vZqJWQjITgA7rdHww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\furka\\Desktop\\Asp.Net 5 Notes\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu.csproj",
+  "projectFilePath": "C:\\Users\\furka\\Desktop\\Entity-Framework-Core\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu\\ORM ve SQL İzolasyonu.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
